@@ -1,6 +1,6 @@
 Please Refer Assignment 2.pdf for the problems
 
-The repo contains code that helps to compare Insertion, Bubble and QuickSort Algorithms in metrix of time complexity, input size and input type(sorted, somewhat sorted, inversly sorted)
+The repo contains code that helps to compare Insertion Sort, QuickSort and Random QuickSort Algorithms in metrix of time complexity, input size and input type(sorted, somewhat sorted, inversly sorted)
 
 #Files Description:
 Ass2-1SolnGraphCode.py is the code that generated the graphs for Question 1
